@@ -1,4 +1,4 @@
-<h1>Hello World! I'm Victor Varian</h1>
+<h1>Hello World! I'm Victor Varian 👋</h1>
 <p style="white-space: nowrap;">
   <a target="_blank" href="https://www.linkedin.com/in/victor-varian" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" style="height: 28px;" />
