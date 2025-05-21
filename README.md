@@ -1,5 +1,6 @@
 <h1>Hello World! I'm Victor Varian</h1>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=victorvic54)](https://git.io/streak-stats)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=victorvic54.victorvic54&”  />
+<p><a target="_blank" href="https://www.linkedin.com/in/victor-varian" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.youtube.com/victor.varian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p>A passionate full stack developer working as a backend engineer from Singapore</p>
 <h2>🚀 Languages and Tools I Use</h2>
