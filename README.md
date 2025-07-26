@@ -6,7 +6,6 @@
   <a target="_blank" href="https://www.youtube.com/victor.varian" style="display: inline-block;">
     <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" style="height: 28px;" />
   </a>
-  <img src="https://profile-counter.glitch.me/victorvic54/count.svg?" alt="visitor counter" style="height: 28px;" />
 </p>
 <p>A passionate full stack developer working as a backend engineer from Singapore</p>
 <h2>🚀 Languages and Tools I Use</h2>
